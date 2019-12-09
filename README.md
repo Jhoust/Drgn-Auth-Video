@@ -1,2 +1,2 @@
 # Drgn-Auth-Video
- A prototype to authenticate videos on Dragonchain with TensorFlow recognition
+ A prototype to authenticate videos on Dragonchain with Cascade faced etection with TensorFlow recognition.
